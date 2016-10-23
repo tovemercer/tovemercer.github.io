@@ -1,5 +1,11 @@
 body {
 	padding: 2px 5%;
+	font-family: Helvetica serif;
+}
+
+p {
+	font-family: sans-serif;
+	text-transform: lowercase;
 }
 
 h1 {
@@ -11,6 +17,7 @@ h1 {
 	font-weight: bold;
 	font-size: 1.8em;
 	border: 2px solid tan;
+	font-family: Helvetica serif;
 }
 
 .info {
@@ -28,4 +35,9 @@ h1 {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
+	font-family: Helvetica serif;
+}
+
+img {
+	width: 100%;
 }
