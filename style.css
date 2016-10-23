@@ -41,3 +41,11 @@ h1 {
 img {
 	width: 100%;
 }
+
+a:link {
+	color: blue;
+}
+
+a:visited {
+	color: pink;
+}
