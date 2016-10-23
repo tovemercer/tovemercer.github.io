@@ -3,7 +3,7 @@ body {
 	font-family: Helvetica serif;
 }
 
-p {
+p, ul {
 	font-family: sans-serif;
 	text-transform: lowercase;
 }
