@@ -43,9 +43,15 @@ img {
 }
 
 a:link {
-	color: blue;
+	color: tan;
 }
 
 a:visited {
 	color: pink;
+}
+
+@media screen and (max-width: 400px) {
+  body {
+    padding: 0;
+    }
 }
